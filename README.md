@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🧑‍💻 I am Yingjun Luo, an ICT Master's degree student at Politecnico di Torino.
-- 👨‍🎓 Bachelor's degree in Automotive Engineering.
+- 👨‍🎓 Bachelor's degree in Automotive Engineering at Politecnico di Torino.
 - 🌱 I’m currently learning IoT platform, Database, Front-end and Back-end development.
 - 💡 I'm interested in IoT, Optimization, AI, DA, and Software Development.
 - 🏀 I like basketball and billiards
