@@ -4,7 +4,7 @@
 - 👨‍🎓 Bachelor's degree in Automotive Engineering at Politecnico di Torino.
 - 🌱 I’m currently learning IoT platform, Database, Front-end and Back-end development.
 - 💡 I'm interested in IoT, Optimization, AI, DA, and Software Development.
-- 🏀 I like basketball and billiards
+- 🏀 I like basketball and billiards.
   
 <!--
 **luoyingjuntorino/luoyingjuntorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
