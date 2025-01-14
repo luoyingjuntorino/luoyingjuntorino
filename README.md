@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🧑‍💻 Full Stack Developers.
-- 👨‍🎓 Tech Stack: Python, Node.js, React, Golang, PostgreSQL, InfluxDB, TimescaleDB, MongoDB, Grafana, Kafka&RabbitMQ, Docker&K8S, REST-Based APIs.
+- 🧑‍💻 Full Stack Developers & DevOps.
+- 👨‍🎓 Tech Stack: Python, Node.js, React, Golang, PostgreSQL, InfluxDB, TimescaleDB, MongoDB, Grafana & Prometheus, Kafka & RabbitMQ, Docker&K8S, REST-Based APIs, NGINX.
 
   
 <!--
