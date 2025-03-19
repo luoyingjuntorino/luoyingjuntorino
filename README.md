@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Full Stack Developers & DevOps & IoT Engineer.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,rabbitmq,grafana,graphql,mongodb,mysql,postgres,sqlite,ubuntu,windows,postman,nginx,nodejs,npm,openstack,js,react,fastapi,kubernetes,docker,github,aws,discord,raspberrypi,vscode)](https://skillicons.dev)
   
 <!--
 **luoyingjuntorino/luoyingjuntorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
