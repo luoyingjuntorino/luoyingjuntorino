@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🧑‍💻 Full Stack Developers & DevOps.
-- 👨‍🎓 Tech Stack: 
-Python, Node.js, React, Golang, PostgreSQL, InfluxDB, TimescaleDB, MongoDB, Grafana & Prometheus, Kafka & RabbitMQ, Docker, K8S and OpenStack, REST-Based APIs, NGINX, MQTT(s) & HTTP(s), Distributed system & Microservice.
+- 🧑‍💻 Full Stack Developers & DevOps & IoT Engineer.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
 <!--
 **luoyingjuntorino/luoyingjuntorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
