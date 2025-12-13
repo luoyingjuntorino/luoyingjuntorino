@@ -3,7 +3,7 @@
 - 🧑‍💻 Full Stack Developer, DevOps, and IoT Engineer.
 - 🔭 Currently following MIT Distributed System Lectures.
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,py,go,rabbitmq,grafana,prometheus,graphql,mongodb,mysql,postgres,sqlite,ubuntu,windows,postman,nginx,kafka,cloudflare,elasticsearch,nodejs,npm,js,ts,react,css,bootstrap,html,vite,fastapi,kubernetes,docker,ansible,openstack,github,md,aws,discord,raspberrypi,arduino,vscode,redis,latex,linux,wordpress&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,py,go,rabbitmq,grafana,prometheus,graphql,mongodb,mysql,postgres,sqlite,ubuntu,windows,postman,nginx,kafka,cloudflare,elasticsearch,nodejs,npm,js,ts,react,css,bootstrap,html,vite,fastapi,kubernetes,docker,ansible,openstack,github,md,aws,discord,raspberrypi,arduino,vscode,redis,latex,linux,debian,wordpress&perline=11)](https://skillicons.dev)
   
 <!--
 **luoyingjuntorino/luoyingjuntorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
